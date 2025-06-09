@@ -25,7 +25,8 @@ Layout responsivo para mobile e desktop
 ![Captura de tela 2024-11-25 174130](https://github.com/user-attachments/assets/b71eaecf-2561-4375-a590-3ee925ec9050)
 
 🌍 Acesse o Portfólio
-https://portif-lio-q5yy.vercel.app/
+https://portif-lio-seven-indol.vercel.app/
+
 
 📚 Aprendizados
 Durante esse projeto, aprendi bastante sobre:
