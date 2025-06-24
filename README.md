@@ -20,7 +20,7 @@ Layout responsivo para mobile e desktop
 
 
 🌍 Acesse o Portfólio
-https://portif-lio-seven-indol.vercel.app/
+https://portifolio-naecia.vercel.app/
 
 
 📚 Aprendizados
